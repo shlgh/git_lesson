@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is myfile2 txt file. added extra words
+=======
+this is myfile2 txt file.
+removed line
+dummy changed
+>>>>>>> new_feature
