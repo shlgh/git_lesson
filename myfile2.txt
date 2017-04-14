@@ -1,2 +1,3 @@
 this is myfile2 txt file.
 removed line
+dummy changed
