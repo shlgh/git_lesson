@@ -1,3 +1,9 @@
 This is file name my_file.
+<<<<<<< HEAD
 
 i added this line to test purpose.
+=======
+added another line
+removed line.
+Dummy change.
+>>>>>>> another_feature
